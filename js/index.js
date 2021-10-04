@@ -168,7 +168,7 @@ function changeStatus(i) {
     thisStatus = "DONE"
   }
   else {
-    thisStatus = "TODO"
+    thisStatus = "DONE"
   }
   objectToChangeStatus.status = thisStatus
   localStorage.setItem(

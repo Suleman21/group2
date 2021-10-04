@@ -12,6 +12,9 @@
   display: inline-block;
   border-radius: 50%;
 }
+.links {
+  color: black;
+}
 
 
 div.nav-menu {
@@ -450,7 +453,7 @@ ul.nav-menu li a.active {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("/css/img/hero-bg.jpg") top center;
+  background: url("./img/hero-bg.jpg") top center;
   background-size: cover;
   position: relative;
 }
